@@ -1,4 +1,4 @@
 Original text.
 
-Modified line in feature-2
+Modified text in feature-1.
 
